@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+/* Classes - paragraph & cooler */
+
+.paragraph {
+    background-color: rgb(233, 150, 122);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+/* IDs: first & second */
+
+#first-id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
