@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+/* Combining both class and type selectors for descendant combinators */
+
+.container .text {
+    color: red;
+    background-color: yellow;
+}
+
+div p {
+   font-size: 20px;
+   text-align: center; 
+}
+
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
